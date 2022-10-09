@@ -4,6 +4,8 @@
 <div align="center">
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=IamAnjaehyun&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IamAnjaehyun&layout=compact%&theme=tokyonight)
+
 
 <h3 align="center">📚 Tech Stack 📚</h3>
 <p align="center">

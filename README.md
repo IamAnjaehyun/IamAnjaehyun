@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=egg&color=auto&height=300&section=header&text=IamAnjaehyun&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=egg&theme=tokyonight&height=300&section=header&text=IamAnjaehyun&fontSize=90)
 
 <h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
 <div align="center">
@@ -7,7 +7,8 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IamAnjaehyun&layout=compact%&theme=tokyonight)
 
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=IamAnjaehyun&theme=tokyonight)](https://git.io/streak-stats)
+  
 <h3 align="center">📚 Tech Stack 📚</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp

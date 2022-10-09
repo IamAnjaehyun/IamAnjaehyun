@@ -1,13 +1,15 @@
 ![header](https://capsule-render.vercel.app/api?type=Rounded&theme=tokyonight&height=300&section=header&text=IamAnjaehyun&fontSize=90)
 
-<h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
+<h3 align="center">👩‍💻 My Github 👩‍💻</h3>
 <div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=IamAnjaehyun&theme=tokyonight)](https://git.io/streak-stats)
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=IamAnjaehyun&show_icons=true&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IamAnjaehyun&layout=compact%&theme=tokyonight)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=IamAnjaehyun&theme=tokyonight)](https://git.io/streak-stats)
+
   
 <h3 align="center">📚 Tech Stack 📚</h3>
 <p align="center">

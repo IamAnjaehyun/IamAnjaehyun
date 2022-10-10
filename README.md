@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Slice&theme=tokyonight&height=300&section=header&text=IamAnjaehyun&fontAlign=70&desc=Desc&descAlign=20)
+![header](https://capsule-render.vercel.app/api?type=Soft&theme=tokyonight&height=300&section=header&text=IamAnjaehyun)
 
 <h3 align="center">👩‍💻 My Github 👩‍💻</h3>
 <div align="center">

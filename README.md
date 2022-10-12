@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=Soft&theme=tokyonight&height=300&section=header&text=IamAnjaehyun)
 
-<h3 align="center">👩‍💻 My Github 👩‍💻</h3>
+<h3 align="center">👩‍💻 Anjh's Github 👩‍💻</h3>
 <div align="center">
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=IamAnjaehyun&theme=tokyonight)](https://git.io/streak-stats)

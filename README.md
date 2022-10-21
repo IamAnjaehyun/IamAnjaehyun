@@ -1,5 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=Soft&theme=tokyonight&height=300&section=header&text=IamAnjaehyun)
-
 <h3 align="center">👾 Anjh's Github 👾</h3>
 <div align="center">
 

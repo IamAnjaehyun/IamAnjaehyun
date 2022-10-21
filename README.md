@@ -1,4 +1,4 @@
-<h3 align="center">👾 Anjh's Github 👾</h3>
+<h3 align="center">👾 IamAnjaehyun's Github 👾</h3>
 <div align="center">
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=IamAnjaehyun&theme=tokyonight)](https://git.io/streak-stats)

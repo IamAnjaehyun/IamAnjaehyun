@@ -3,10 +3,15 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=IamAnjaehyun&theme=tokyonight)](https://git.io/streak-stats)
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=IamAnjaehyun&show_icons=true&theme=tokyonight)
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IamAnjaehyun&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IamAnjaehyun&layout=compact%&theme=tokyonight)
+  
+<a href="https://opgc.me/#/users/IamAnJaeHyun" target="_blank"><img src="https://api.opgc.me/githubs/users/IamAnJaeHyun/tag/?theme=prism" /></a>
 
+<a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=IamAnJaeHyun&theme=react-dark&hide_border=true">
+  </a>
 
   
 <h3 align="center">📚 Tech Stack 📚</h3>

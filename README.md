@@ -16,7 +16,7 @@
   
 <h3 align="center">📚 Tech Stack 📚</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-square&logo=java&logoColor=white">
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-square&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/Python-3766AB?style=for-the-square&logo=Python&logoColor=white"/>
   <img src="https://img.shields.io/badge/html-E34F26?style=for-the-square&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/css-1572B6?style=for-the-square&logo=css3&logoColor=white">
@@ -27,4 +27,8 @@
   <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-square&logo=SpringBoot&logoColor=white"/>
   <img src="https://img.shields.io/badge/github-181717?style=for-the-square&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/Mysql-E6B91E?style=for-the-square&logo=MySql&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-square&logo=Docker&logoColor=white"/> 
+  <br>
+  <img src="https://img.shields.io/badge/gradle-02303A?style=for-the-square&logo=gradle&logoColor=white">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-square&logo=amazonaws&logoColor=white">
 </p>

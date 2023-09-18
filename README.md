@@ -9,7 +9,7 @@
 </br>
 
 ```
- BackEnd & REST API
+ BackEnd Developer
 
  Contact : lvet0330@gmail.com
  GitHub : https://github.com/IamAnjaehyun
@@ -17,9 +17,7 @@
 
   
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IamAnjaehyun&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)  <a href="https://opgc.me/#/users/IamAnJaeHyun" target="_blank"><img src="https://api.opgc.me/githubs/users/IamAnJaeHyun/tag/?theme=prism" /></a>
-
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IamAnjaehyun&layout=compact&theme=tokyonight)
 ---
 
 
